@@ -67,9 +67,9 @@ React와 Node.js를 이용한 SNS 개발.
 
 6. 마이페이지
 
-<img width="60%" src="https://github.com/lim997/react_next_js_sns/blob/main/images/user.png"/>
+<img width="60%" src="https://github.com/lim997/react_next_js_sns/blob/main/images/my_page.png"/>
 
-8. 팔로잉 목록
+7. 팔로잉 목록
 
 <img width="60%" src="https://github.com/lim997/react_next_js_sns/blob/main/images/follow.png"/>
 
